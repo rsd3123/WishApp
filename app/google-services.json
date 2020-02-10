@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989969428136",
+    "firebase_url": "https://fir-testrealdatabase.firebaseio.com",
+    "project_id": "fir-testrealdatabase",
+    "storage_bucket": "fir-testrealdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989969428136:android:61cae2d6adc6bf48675c9d",
+        "android_client_info": {
+          "package_name": "com.example.firebasetestreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989969428136-par3sur99vvuio8p19o1t9m69vhvjjtj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetestreal",
+            "certificate_hash": "248a247a1a27f8da23f2ba1cfca85c066f83832f"
+          }
+        },
+        {
+          "client_id": "989969428136-omqh4b3q0cavsa0nhhdpeo2uojk415u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiT_E1ytLU-DYFcZ2cEgrN71xgso_B7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989969428136-omqh4b3q0cavsa0nhhdpeo2uojk415u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
